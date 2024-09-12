@@ -47,8 +47,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    ![enchengzw's Stats](https://github-readme-stats.vercel.app/api?username=enchengzw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-    ![enchengzw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enchengzw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+    ![](https://github-readme-stats.vercel.app/api?username=enchengzw&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<br>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enchengzw&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <br/><br/>
