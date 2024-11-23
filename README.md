@@ -8,8 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a IRC with CPP
- 
  🌱 I’m currently learning CPP, JS
 
  </div>
